@@ -1,25 +1,25 @@
-# <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=32&duration=3000&pause=1000&color=3490DE&center=false&vCenter=true&random=false&width=500&lines=Hola%2C+Soy+Michell+Policarpio+%F0%9F%8C%8F" alt="Typing SVG" />
+# <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=32&duration=3000&pause=1000&color=3490DE&center=false&vCenter=true&random=false&width=500&lines=Hello%2C+I'm+Michell+Policarpio+%F0%9F%8C%8F" alt="Typing SVG" />
 
-## 🌟 Acerca de mi
+## 🌟 About Me
 
-Soy **Ingeniero en Informática** en formación, apasionado por transformar datos en soluciones tangibles. Navego entre líneas de código y análisis de datos para construir el futuro digital.
+I'm a **Computer Science Engineering** student passionate about transforming data into tangible solutions. I navigate through code and data analysis to build the digital future.
 
 ```python
 class MichellPolicarpio:
     def __init__(self):
-        self.educacion = ["Universidad Veracruzana (2021-2026)", 
-                         "Samsung Innovation Campus - Ciencia de Datos"]
-        self.experiencia = ["NASA Space Apps Challenge 2024", 
-                           "Análisis de Datos Económicos y Espaciales"]
-        self.ubicacion = "Veracruz, México"
+        self.education = ["Universidad Veracruzana (2021-2026)", 
+                         "Samsung Innovation Campus - Data Science"]
+        self.experience = ["NASA Space Apps Challenge 2024", 
+                          "Economic & Spatial Data Analysis"]
+        self.location = "Veracruz, Mexico"
         
-    def saludar(self):
-        print("¡Gracias por visitar mi perfil! Exploremos juntos el mundo de los datos y el desarrollo.")
+    def greet(self):
+        print("Thanks for visiting my profile! Let's explore the world of data and development together.")
 ```
 
-## 🚀 Top Technologies & Tools
+## 🛠️ Technical Expertise
 
-### Languages & Frameworks
+### Programming Languages & Frameworks
 [![C Badge](https://img.shields.io/badge/-C-00599C?style=for-the-badge&labelColor=black&logo=c&logoColor=00599C)](#)
 [![C++ Badge](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&labelColor=black&logo=c%2B%2B&logoColor=00599C)](#)
 [![Java Badge](https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&labelColor=black&logo=openjdk&logoColor=ED8B00)](#)
@@ -43,32 +43,32 @@ class MichellPolicarpio:
 [![Laragon Badge](https://img.shields.io/badge/-Laragon-0E83CD?style=for-the-badge&labelColor=black&logo=laragon&logoColor=0E83CD)](#)
 [![OBS Studio Badge](https://img.shields.io/badge/-OBS%20Studio-302E31?style=for-the-badge&labelColor=black&logo=obs-studio&logoColor=white)](#)
 
-## 🚀 Soluciones Profesionales
+## 🚀 Professional Solutions
 
 <div align="center">
-  <img src="https://img.shields.io/badge/%E2%AD%90-Desarrollo%20de%20Software-FF6B6B?style=for-the-badge" alt="Desarrollo de Software" />
-  <img src="https://img.shields.io/badge/%E2%AD%90-Gestión%20de%20Bases%20de%20Datos-4ECDC4?style=for-the-badge" alt="Gestión de Bases de Datos" />
-  <img src="https://img.shields.io/badge/%E2%AD%90-Desarrollo%20Web-1A535C?style=for-the-badge" alt="Desarrollo Web" />
-  <img src="https://img.shields.io/badge/%E2%AD%90-Análisis%20de%20Datos-F9C80E?style=for-the-badge" alt="Análisis de Datos" />
+  <img src="https://img.shields.io/badge/%E2%AD%90-Software%20Development-FF6B6B?style=for-the-badge" alt="Software Development" />
+  <img src="https://img.shields.io/badge/%E2%AD%90-Database%20Management-4ECDC4?style=for-the-badge" alt="Database Management" />
+  <img src="https://img.shields.io/badge/%E2%AD%90-Web%20Development-1A535C?style=for-the-badge" alt="Web Development" />
+  <img src="https://img.shields.io/badge/%E2%AD%90-Data%20Analysis-F9C80E?style=for-the-badge" alt="Data Analysis" />
 </div>
 
-### 🔍 Mi Enfoque
-> Desarrollo soluciones personalizadas que combinan innovación tecnológica con análisis de datos para resolver problemas complejos del mundo real. Cada proyecto es una oportunidad para transformar conceptos en realidades digitales que generan valor.
+### 🔍 My Approach
+> I develop customized solutions that combine technological innovation with data analysis to solve complex real-world problems. Each project is an opportunity to transform concepts into digital realities that generate value.
 
-## 🏆 Logros y Trayectoria
+## 🏆 Achievements & Background
 
-- 🌌 Participante en **NASA Space Apps Challenge 2024** (Sede Boca del Río, Veracruz)
-- 🧠 Graduado del programa de **Ciencia de Datos** en Samsung Innovation Campus
-- 📚 Estudiante destacado en Ingeniería Informática en Universidad Veracruzana
+- 🌌 Participant in **NASA Space Apps Challenge 2024** (Boca del Río, Veracruz)
+- 🧠 Graduate of **Data Science** program at Samsung Innovation Campus
+- 📚 Outstanding Computer Engineering student at Universidad Veracruzana
 
-## 📊 Estadísticas GitHub
+## 📊 GitHub Stats
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michellpolicarpio&theme=blueberry&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=michellpolicarpio&theme=blueberry&hide_border=true&include_all_commits=true&count_private=true" />
 </div>
 
-## 📫 Conecta Conmigo
+## 📫 Let's Connect
 
 <div align="center">
   <a href="https://www.linkedin.com/in/michellpolicarpio/" target="_blank">
@@ -84,11 +84,11 @@ class MichellPolicarpio:
 
 <div align="center">
   <img src="https://img.shields.io/badge/📱-229%20136%200054-25D366?style=flat-square&labelColor=25D366&logoColor=white" alt="Phone" />
-  <img src="https://img.shields.io/badge/📍-Veracruz,%20México-4285F4?style=flat-square&labelColor=4285F4&logoColor=white" alt="Location" />
+  <img src="https://img.shields.io/badge/📍-Veracruz,%20Mexico-4285F4?style=flat-square&labelColor=4285F4&logoColor=white" alt="Location" />
 </div>
 
 ---
 
 <div align="center">
-  <sub>© 2024 Michell Alexis Policarpio Moran | Con ❤️ por la tecnología y los datos</sub>
+  <sub>© 2024 Michell Alexis Policarpio Moran | With ❤️ for technology and data</sub>
 </div>
