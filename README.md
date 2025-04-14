@@ -1,11 +1,5 @@
 # <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=32&duration=3000&pause=1000&color=3490DE&center=false&vCenter=true&random=false&width=500&lines=Hola%2C+Soy+Michell+Policarpio+%F0%9F%8C%8F" alt="Typing SVG" />
 
-<div align="right">
-  <img src="https://komarev.com/ghpvc/?username=michellpolicarpio&label=Visitantes&color=3490DE&style=flat" alt="Contador de visitas" />
-</div>
-
-> _"Los datos son el nuevo petróleo, pero sin refinamiento no tienen valor"_
-
 ## 🌟 Mi Universo Digital
 
 Soy **Ingeniero en Informática** en formación, apasionado por transformar datos en soluciones tangibles. Navego entre líneas de código y análisis de datos para construir el futuro digital.
@@ -22,28 +16,6 @@ class MichellPolicarpio:
     def saludar(self):
         print("¡Gracias por visitar mi perfil! Exploremos juntos el mundo de los datos y el desarrollo.")
 ```
-
-## 🔭 Áreas de Especialización
-
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <img src="https://img.icons8.com/color/96/000000/economic-improvement.png" width="50"/>
-      <br><b>Economía Digital</b>
-      <br><sub>Análisis económico y mercados financieros</sub>
-    </td>
-    <td align="center" width="33%">
-      <img src="https://img.icons8.com/color/96/000000/data-configuration.png" width="50"/>
-      <br><b>Ciencia de Datos</b>
-      <br><sub>Visualización y análisis exploratorio</sub>
-    </td>
-    <td align="center" width="33%">
-      <img src="https://img.icons8.com/color/96/000000/geography.png" width="50"/>
-      <br><b>Geografía y Cartografía</b>
-      <br><sub>Análisis espacial y GIS</sub>
-    </td>
-  </tr>
-</table>
 
 ## ⚙️ Mi Arsenal Tecnológico
 
