@@ -1,70 +1,115 @@
+# <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=32&duration=3000&pause=1000&color=3490DE&center=false&vCenter=true&random=false&width=500&lines=Hola%2C+Soy+Michell+Policarpio+%F0%9F%8C%8F" alt="Typing SVG" />
+
+<div align="right">
+  <img src="https://komarev.com/ghpvc/?username=michellpolicarpio&label=Visitantes&color=3490DE&style=flat" alt="Contador de visitas" />
+</div>
+
+> _"Los datos son el nuevo petróleo, pero sin refinamiento no tienen valor"_
+
+## 🌟 Mi Universo Digital
+
+Soy **Ingeniero en Informática** en formación, apasionado por transformar datos en soluciones tangibles. Navego entre líneas de código y análisis de datos para construir el futuro digital.
+
+```python
+class MichellPolicarpio:
+    def __init__(self):
+        self.educacion = ["Universidad Veracruzana (2021-2026)", 
+                         "Samsung Innovation Campus - Ciencia de Datos"]
+        self.experiencia = ["NASA Space Apps Challenge 2024", 
+                           "Análisis de Datos Económicos y Espaciales"]
+        self.ubicacion = "Veracruz, México"
+        
+    def saludar(self):
+        print("¡Gracias por visitar mi perfil! Exploremos juntos el mundo de los datos y el desarrollo.")
+```
+
+## 🔭 Áreas de Especialización
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <img src="https://img.icons8.com/color/96/000000/economic-improvement.png" width="50"/>
+      <br><b>Economía Digital</b>
+      <br><sub>Análisis económico y mercados financieros</sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://img.icons8.com/color/96/000000/data-configuration.png" width="50"/>
+      <br><b>Ciencia de Datos</b>
+      <br><sub>Visualización y análisis exploratorio</sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://img.icons8.com/color/96/000000/geography.png" width="50"/>
+      <br><b>Geografía y Cartografía</b>
+      <br><sub>Análisis espacial y GIS</sub>
+    </td>
+  </tr>
+</table>
+
+## ⚙️ Mi Arsenal Tecnológico
+
 <div align="center">
-  <h1>Hi, I'm Michell Policarpio 👋</h1>
+  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
+  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
+  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 </div>
 
-## 👨‍💻 About Me
-- 🎓 Computer Science Engineering Student at Universidad Veracruzana (2021-2026)
-- 📊 Data Science Graduate from Samsung Innovation Campus
-- 🚀 NASA Space Apps Challenge 2024 Participant - Boca del Río, Veracruz
-- 💡 Passionate about Economics, Data Science, and Geographic Information Systems
-- 🌱 Constantly learning and expanding my technical skillset
-
-## 🚀 Top Technologies & Tools
-
-### Languages & Frameworks
-[![C Badge](https://img.shields.io/badge/-C-00599C?style=for-the-badge&labelColor=black&logo=c&logoColor=00599C)](#)
-[![C++ Badge](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&labelColor=black&logo=c%2B%2B&logoColor=00599C)](#)
-[![Java Badge](https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&labelColor=black&logo=openjdk&logoColor=ED8B00)](#)
-[![Python Badge](https://img.shields.io/badge/-Python-3670A0?style=for-the-badge&labelColor=black&logo=python&logoColor=3670A0)](#)
-[![HTML5 Badge](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&labelColor=black&logo=html5&logoColor=E34F26)](#)
-[![CSS3 Badge](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&labelColor=black&logo=css3&logoColor=1572B6)](#)
-[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)
-
-### Databases & Version Control
-[![MySQL Badge](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&labelColor=black&logo=mysql&logoColor=white)](#)
-[![PostgreSQL Badge](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&labelColor=black&logo=postgresql&logoColor=white)](#)
-[![MongoDB Badge](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&labelColor=black&logo=mongodb&logoColor=white)](#)
-[![GitHub Badge](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&labelColor=black&logo=github&logoColor=white)](#)
-
-## 🔍 Interests & Specializations
-- 📈 **Economics**: Analysis of economic trends and financial markets
-- 📊 **Data Science**: Data analysis and visualization techniques
-- 🗺️ **Geography & Cartography**: Spatial analysis and geographic visualization
-
-## 🛠️ Professional Services
-
-### Software Development
-Custom application development using C/C++, Java, and Python. Efficient and optimized solutions tailored to specific needs.
-
-### Database Management
-Design and implementation of relational databases (MySQL, PostgreSQL) and NoSQL (MongoDB). Query optimization and data administration.
-
-### Web Development
-Creation of responsive and modern websites using HTML, CSS, and JavaScript. Intuitive interfaces and optimized user experiences.
-
-### Data Analysis
-Data processing and analysis using Python and specialized tools. Data visualization and detailed report generation.
-
-## 🏆 Certifications & Achievements
-- NASA Space Apps Challenge 2024 Participant
-- Data Science Graduate - Samsung Innovation Campus
-
-## 📫 Connect with me
-<div align="left">
-  
-[![Linkedin Badge](https://img.shields.io/badge/-Michell_Policarpio-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/) 
-[![Gmail Badge](https://img.shields.io/badge/-Michell_Policarpio-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:michellpolicarpio@gmail.com)
-[![Phone Badge](https://img.shields.io/badge/-229_136_0054-25D366?style=flat&labelColor=25D366&logo=whatsapp&logoColor=white)](#)
-[![Location Badge](https://img.shields.io/badge/-Veracruz,_México-4285F4?style=flat&labelColor=4285F4&logo=google-maps&logoColor=white)](#)
-</div>
-
-## 📊 GitHub Stats
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&langs_count=8&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight"/>
+  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
+  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
+  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 </div>
 
-## 👥 Profile Views
-[![](https://visitcount.itsvg.in/api?id=yourusername&icon=7&color=0)](https://visitcount.itsvg.in)
+## 🚀 Soluciones Profesionales
 
-© 2024 Michell Alexis Policarpio Moran | All rights reserved
+<div align="center">
+  <img src="https://img.shields.io/badge/%E2%AD%90-Desarrollo%20de%20Software-FF6B6B?style=for-the-badge" alt="Desarrollo de Software" />
+  <img src="https://img.shields.io/badge/%E2%AD%90-Gestión%20de%20Bases%20de%20Datos-4ECDC4?style=for-the-badge" alt="Gestión de Bases de Datos" />
+  <img src="https://img.shields.io/badge/%E2%AD%90-Desarrollo%20Web-1A535C?style=for-the-badge" alt="Desarrollo Web" />
+  <img src="https://img.shields.io/badge/%E2%AD%90-Análisis%20de%20Datos-F9C80E?style=for-the-badge" alt="Análisis de Datos" />
+</div>
+
+### 🔍 Mi Enfoque
+> Desarrollo soluciones personalizadas que combinan innovación tecnológica con análisis de datos para resolver problemas complejos del mundo real. Cada proyecto es una oportunidad para transformar conceptos en realidades digitales que generan valor.
+
+## 🏆 Logros y Trayectoria
+
+- 🌌 Participante en **NASA Space Apps Challenge 2024** (Sede Boca del Río, Veracruz)
+- 🧠 Graduado del programa de **Ciencia de Datos** en Samsung Innovation Campus
+- 📚 Estudiante destacado en Ingeniería Informática en Universidad Veracruzana
+
+## 📊 Estadísticas GitHub
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michellpolicarpio&theme=blueberry&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=michellpolicarpio&theme=blueberry&hide_border=true&include_all_commits=true&count_private=true" />
+</div>
+
+## 📫 Conecta Conmigo
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/michellpolicarpio/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:michellpolicarpio@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://github.com/michellpolicarpio">
+    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/📱-229%20136%200054-25D366?style=flat-square&labelColor=25D366&logoColor=white" alt="Phone" />
+  <img src="https://img.shields.io/badge/📍-Veracruz,%20México-4285F4?style=flat-square&labelColor=4285F4&logoColor=white" alt="Location" />
+</div>
+
+---
+
+<div align="center">
+  <sub>© 2024 Michell Alexis Policarpio Moran | Con ❤️ por la tecnología y los datos</sub>
+</div>
