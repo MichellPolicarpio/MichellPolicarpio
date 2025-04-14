@@ -24,24 +24,23 @@ class MichellPolicarpio:
 [![C++ Badge](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&labelColor=black&logo=c%2B%2B&logoColor=00599C)](#)
 [![Java Badge](https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&labelColor=black&logo=openjdk&logoColor=ED8B00)](#)
 [![Python Badge](https://img.shields.io/badge/-Python-3670A0?style=for-the-badge&labelColor=black&logo=python&logoColor=3670A0)](#)
+[![PHP Badge](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&labelColor=black&logo=php&logoColor=777BB4)](#)
 [![HTML5 Badge](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&labelColor=black&logo=html5&logoColor=E34F26)](#)
 [![CSS3 Badge](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&labelColor=black&logo=css3&logoColor=1572B6)](#)
 [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)
-[![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#)
-[![NodeJS Badge](https://img.shields.io/badge/-NodeJS-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#)
 
 ### Databases & Version Control
 [![MySQL Badge](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&labelColor=black&logo=mysql&logoColor=white)](#)
 [![PostgreSQL Badge](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&labelColor=black&logo=postgresql&logoColor=white)](#)
+[![MongoDB Badge](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&labelColor=black&logo=mongodb&logoColor=white)](#)
 [![Git Badge](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&labelColor=black&logo=git&logoColor=F05032)](#)
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&labelColor=black&logo=github&logoColor=white)](#)
 
-### Development Tools
+### Operating Systems & Tools
+[![macOS Badge](https://img.shields.io/badge/-macOS-000000?style=for-the-badge&labelColor=black&logo=apple&logoColor=white)](#)
+[![Fedora Badge](https://img.shields.io/badge/-Fedora-294172?style=for-the-badge&labelColor=black&logo=fedora&logoColor=294172)](#)
+[![Windows Badge](https://img.shields.io/badge/-Windows_11-0078D6?style=for-the-badge&labelColor=black&logo=windows&logoColor=0078D6)](#)
 [![VS Code Badge](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&labelColor=black&logo=visual-studio-code&logoColor=007ACC)](#)
-[![Postman Badge](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&labelColor=black&logo=postman&logoColor=FF6C37)](#)
-[![Jira Badge](https://img.shields.io/badge/-Jira-0052CC?style=for-the-badge&labelColor=black&logo=jira&logoColor=0052CC)](#)
-[![Laragon Badge](https://img.shields.io/badge/-Laragon-0E83CD?style=for-the-badge&labelColor=black&logo=laragon&logoColor=0E83CD)](#)
-[![OBS Studio Badge](https://img.shields.io/badge/-OBS%20Studio-302E31?style=for-the-badge&labelColor=black&logo=obs-studio&logoColor=white)](#)
 
 ## 🚀 Professional Solutions
 
