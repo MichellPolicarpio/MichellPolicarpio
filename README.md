@@ -60,13 +60,6 @@ class MichellPolicarpio:
 - 🧠 Graduate of **Data Science** program at Samsung Innovation Campus
 - 📚 Outstanding Computer Engineering student at Universidad Veracruzana
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michellpolicarpio&theme=blueberry&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=michellpolicarpio&theme=blueberry&hide_border=true&include_all_commits=true&count_private=true" />
-</div>
-
 ## 📫 Let's Connect
 
 <div align="center">
