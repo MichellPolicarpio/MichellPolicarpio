@@ -25,6 +25,8 @@ class MichellPolicarpio:
 [![Java Badge](https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&labelColor=black&logo=openjdk&logoColor=ED8B00)](#)
 [![Python Badge](https://img.shields.io/badge/-Python-3670A0?style=for-the-badge&labelColor=black&logo=python&logoColor=3670A0)](#)
 [![Swift Badge](https://img.shields.io/badge/-Swift-FA7343?style=for-the-badge&labelColor=black&logo=swift&logoColor=FA7343)](#)
+[![Dart Badge](https://img.shields.io/badge/-Dart-0175C2?style=for-the-badge&labelColor=black&logo=dart&logoColor=0175C2)](#)
+[![Flutter Badge](https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&labelColor=black&logo=flutter&logoColor=02569B)](#)
 [![PHP Badge](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&labelColor=black&logo=php&logoColor=777BB4)](#)
 [![HTML5 Badge](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&labelColor=black&logo=html5&logoColor=E34F26)](#)
 [![CSS3 Badge](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&labelColor=black&logo=css3&logoColor=1572B6)](#)
@@ -43,6 +45,7 @@ class MichellPolicarpio:
 [![Windows Badge](https://img.shields.io/badge/-Windows_11-0078D6?style=for-the-badge&labelColor=black&logo=windows&logoColor=0078D6)](#)
 [![VS Code Badge](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&labelColor=black&logo=visual-studio-code&logoColor=007ACC)](#)
 [![Xcode Badge](https://img.shields.io/badge/-Xcode-147EFB?style=for-the-badge&labelColor=black&logo=xcode&logoColor=147EFB)](#)
+[![Android Studio Badge](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=for-the-badge&labelColor=black&logo=android-studio&logoColor=3DDC84)](#)
 
 ## 🚀 Professional Solutions
 
