@@ -2,7 +2,7 @@
 
 ## 🌟 About Me
 
-I'm a **Computer Science Engineering** student passionate about transforming data into tangible solutions. I navigate through code and data analysis to build the digital future.
+I'm a **Software Engineering** student passionate about transforming data into tangible solutions. I navigate through code and data analysis to build the digital future.
 
 ```python
 class MichellPolicarpio:
