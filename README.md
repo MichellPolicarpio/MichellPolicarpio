@@ -86,6 +86,10 @@ class MichellPolicarpio:
 
 ---
 
+[![GitHub Streak](https://github-readme-streak-stats.vercel.app/api?user=michellpolicarpio&theme=radical&hide_border=true&background=0D1117&stroke=3490DE&ring=3490DE&fire=FF6B6B&currStreakLabel=4ECDC4)](https://git.io/streak-stats)
+
+---
+
 <div align="center">
   <sub>© 2024 Michell Alexis Policarpio Moran | With ❤️ for technology and data</sub>
 </div>
