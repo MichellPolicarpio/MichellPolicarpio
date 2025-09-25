@@ -86,7 +86,19 @@ class MichellPolicarpio:
 
 ---
 
-[![GitHub Streak](https://github-readme-streak-stats.vercel.app/api?user=michellpolicarpio&theme=radical&hide_border=true&background=0D1117&stroke=3490DE&ring=3490DE&fire=FF6B6B&currStreakLabel=4ECDC4)](https://git.io/streak-stats)
+## 📊 GitHub Activity & Stats
+
+<div align="center">
+  
+[![GitHub Streak](https://github-readme-streak-stats.vercel.app/api?user=MichellPolicarpio&theme=radical&hide_border=true&background=0D1117&stroke=3490DE&ring=3490DE&fire=FF6B6B&currStreakLabel=4ECDC4)](https://git.io/streak-stats)
+
+[![Michell's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MichellPolicarpio&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3490DE&icon_color=FF6B6B&text_color=ffffff&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MichellPolicarpio&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3490DE&text_color=ffffff&exclude_repo=MichellPolicarpio)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Michell's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MichellPolicarpio&bg_color=0D1117&color=3490DE&line=FF6B6B&point=4ECDC4&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
 
 ---
 
