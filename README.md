@@ -90,7 +90,7 @@ class MichellPolicarpio:
 
 <div align="center">
   
-[![GitHub Streak](https://github-readme-streak-stats.vercel.app/api?user=MichellPolicarpio&theme=radical&hide_border=true&background=0D1117&stroke=3490DE&ring=3490DE&fire=FF6B6B&currStreakLabel=4ECDC4)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.vercel.app/api?user=michellpolicarpio&theme=radical&hide_border=true&background=0D1117&stroke=3490DE&ring=3490DE&fire=FF6B6B&currStreakLabel=4ECDC4)](https://git.io/streak-stats)
 
 [![Michell's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MichellPolicarpio&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3490DE&icon_color=FF6B6B&text_color=ffffff&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
