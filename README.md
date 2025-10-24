@@ -31,11 +31,13 @@ class MichellPolicarpio:
 [![HTML5 Badge](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&labelColor=black&logo=html5&logoColor=E34F26)](#)
 [![CSS3 Badge](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&labelColor=black&logo=css3&logoColor=1572B6)](#)
 [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)
+[![Next.js Badge](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&labelColor=black&logo=next.js&logoColor=white)](#)
 
 ### Databases & Version Control
 [![MySQL Badge](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&labelColor=black&logo=mysql&logoColor=white)](#)
 [![PostgreSQL Badge](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&labelColor=black&logo=postgresql&logoColor=white)](#)
 [![MongoDB Badge](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&labelColor=black&logo=mongodb&logoColor=white)](#)
+[![Azure SQL Badge](https://img.shields.io/badge/-Azure%20SQL-0078D4?style=for-the-badge&labelColor=black&logo=microsoftazure&logoColor=0078D4)](#)
 [![Git Badge](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&labelColor=black&logo=git&logoColor=F05032)](#)
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&labelColor=black&logo=github&logoColor=white)](#)
 
@@ -46,6 +48,7 @@ class MichellPolicarpio:
 [![VS Code Badge](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&labelColor=black&logo=visual-studio-code&logoColor=007ACC)](#)
 [![Xcode Badge](https://img.shields.io/badge/-Xcode-147EFB?style=for-the-badge&labelColor=black&logo=xcode&logoColor=147EFB)](#)
 [![Android Studio Badge](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=for-the-badge&labelColor=black&logo=android-studio&logoColor=3DDC84)](#)
+[![Vercel Badge](https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&labelColor=black&logo=vercel&logoColor=white)](#)
 
 ## 🚀 Professional Solutions
 
