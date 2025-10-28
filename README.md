@@ -41,10 +41,7 @@ class MichellPolicarpio:
 [![Git Badge](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&labelColor=black&logo=git&logoColor=F05032)](#)
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&labelColor=black&logo=github&logoColor=white)](#)
 
-### Operating Systems & Tools
-[![macOS Badge](https://img.shields.io/badge/-macOS-000000?style=for-the-badge&labelColor=black&logo=apple&logoColor=white)](#)
-[![Fedora Badge](https://img.shields.io/badge/-Fedora-294172?style=for-the-badge&labelColor=black&logo=fedora&logoColor=294172)](#)
-[![Windows Badge](https://img.shields.io/badge/-Windows_11-0078D6?style=for-the-badge&labelColor=black&logo=windows&logoColor=0078D6)](#)
+### Tools
 [![VS Code Badge](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&labelColor=black&logo=visual-studio-code&logoColor=007ACC)](#)
 [![Xcode Badge](https://img.shields.io/badge/-Xcode-147EFB?style=for-the-badge&labelColor=black&logo=xcode&logoColor=147EFB)](#)
 [![Android Studio Badge](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=for-the-badge&labelColor=black&logo=android-studio&logoColor=3DDC84)](#)
