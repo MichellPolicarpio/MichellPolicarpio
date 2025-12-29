@@ -21,7 +21,6 @@ class MichellPolicarpio:
 
 ### Programming Languages & Frameworks
 [![C Badge](https://img.shields.io/badge/-C-00599C?style=for-the-badge&labelColor=black&logo=c&logoColor=00599C)](#)
-[![C++ Badge](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&labelColor=black&logo=c%2B%2B&logoColor=00599C)](#)
 [![Java Badge](https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&labelColor=black&logo=openjdk&logoColor=ED8B00)](#)
 [![Python Badge](https://img.shields.io/badge/-Python-3670A0?style=for-the-badge&labelColor=black&logo=python&logoColor=3670A0)](#)
 [![Swift Badge](https://img.shields.io/badge/-Swift-FA7343?style=for-the-badge&labelColor=black&logo=swift&logoColor=FA7343)](#)
