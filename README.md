@@ -27,7 +27,6 @@ class MichellPolicarpio:
 [![Swift Badge](https://img.shields.io/badge/-Swift-FA7343?style=for-the-badge&labelColor=black&logo=swift&logoColor=FA7343)](#)
 [![Dart Badge](https://img.shields.io/badge/-Dart-0175C2?style=for-the-badge&labelColor=black&logo=dart&logoColor=0175C2)](#)
 [![Flutter Badge](https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&labelColor=black&logo=flutter&logoColor=02569B)](#)
-[![PHP Badge](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&labelColor=black&logo=php&logoColor=777BB4)](#)
 [![HTML5 Badge](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&labelColor=black&logo=html5&logoColor=E34F26)](#)
 [![CSS3 Badge](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&labelColor=black&logo=css3&logoColor=1572B6)](#)
 [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)
