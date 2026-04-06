@@ -1,6 +1,6 @@
 # <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=32&duration=3000&pause=1000&color=3490DE&center=false&vCenter=true&random=false&width=500&lines=Hello%2C+I'm+Michell+Policarpio+%F0%9F%8C%8F" alt="Typing SVG" />
 
-## 🌟 About Me
+## About Me
 
 I'm a software engineer passionate about transforming data into tangible solutions. I navigate through code and data analysis to build the digital future.
 
@@ -17,7 +17,7 @@ class MichellPolicarpio:
         print("Thanks for visiting my profile! Let's explore the world of data and development together.")
 ```
 
-## 🛠️ Technical Expertise
+## Technical Expertise
 
 ### Programming Languages & Frameworks
 [![C Badge](https://img.shields.io/badge/-C-00599C?style=for-the-badge&labelColor=black&logo=c&logoColor=00599C)](#)
@@ -45,7 +45,7 @@ class MichellPolicarpio:
 [![Android Studio Badge](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=for-the-badge&labelColor=black&logo=android-studio&logoColor=3DDC84)](#)
 [![Vercel Badge](https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&labelColor=black&logo=vercel&logoColor=white)](#)
 
-## 🚀 Professional Solutions
+## Professional Solutions
 
 <div align="center">
   <img src="https://img.shields.io/badge/%E2%AD%90-Software%20Development-FF6B6B?style=for-the-badge" alt="Software Development" />
@@ -54,16 +54,16 @@ class MichellPolicarpio:
   <img src="https://img.shields.io/badge/%E2%AD%90-Data%20Analysis-F9C80E?style=for-the-badge" alt="Data Analysis" />
 </div>
 
-### 🔍 My Approach
+### My Approach
 > I develop customized solutions that combine technological innovation with data analysis to solve complex real-world problems. Each project is an opportunity to transform concepts into digital realities that generate value.
 
-## 🏆 Achievements & Background
+## Achievements & Background
 
 - 🌌 Participant in **NASA Space Apps Challenge 2024** (Boca del Río, Veracruz)
 - 🧠 Graduate of **Data Science** program at Samsung Innovation Campus
 - 📚 Outstanding Computer Engineering student at Universidad Veracruzana
 
-## 📫 Let's Connect
+## Let's Connect
 
 <div align="center">
   <a href="https://www.linkedin.com/in/michellpolicarpio/" target="_blank">
