@@ -7,8 +7,8 @@ I'm a software engineer passionate about transforming data into tangible solutio
 ```python
 class MichellPolicarpio:
     def __init__(self):
-        self.education = ["Universidad Veracruzana (2021-2026)", 
-                         "Samsung Innovation Campus - Data Science"]
+        self.education = ["Universidad Veracruzana - Informatics Engineer (2021-2026)", 
+                         "Samsung Innovation Campus - AI & ML"]
         self.experience = ["NASA Space Apps Challenge 2024", 
                           "Economic & Spatial Data Analysis"]
         self.location = "Veracruz, Mexico"
